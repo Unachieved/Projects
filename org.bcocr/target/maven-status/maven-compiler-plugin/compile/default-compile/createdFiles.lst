@@ -1,0 +1,9 @@
+org/jondev/app/App.class
+org/jondev/app/Entry.class
+org/jondev/app/BusinessCardParser.class
+org/jondev/app/ContactInfo.class
+org/jondev/app/Confirm.class
+org/jondev/app/Guifx.class
+org/jondev/app/ContactInfoInterface.class
+org/jondev/app/BusinessCardParserInterface.class
+org/jondev/app/DataIn.class
