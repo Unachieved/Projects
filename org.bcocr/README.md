@@ -5,7 +5,7 @@
 #### **About**
 
 The following component parses data from a business card reader in accordance
-with the specifications detailed in the [SRS](https://github.com/Unachieved/Asymmetrik/blob/main/Software%20Requirements%20Specification.pdf). 
+with the specifications detailed in [Software Requirement Specifications.pdf](https://github.com/Unachieved/Projects/tree/main/org.bcocr/Software%20Requirements%20Specification.pdf). 
 
 The project uses:
 
@@ -46,17 +46,18 @@ mvn test
 ```
 #### **When running**
 
-**step 0:** gui is visible
-![state 0](https://github.com/Unachieved/Asymmetrik/blob/main/readmeImgs/usage0.png)
+**step 0:** Gui is visible. Click Add Contact
+![state 0](https://github.com/Unachieved/Projects/tree/main/org.bcocr/imgs/state1.png)
 
-**step 1:** place business card data in left text area of gui
-![state 1](https://github.com/Unachieved/Asymmetrik/blob/main/readmeImgs/usage1.png)
+**step 1:** Enter Data
+![state 1](https://github.com/Unachieved/Projects/tree/main/org.bcocr/imgs/state2.png)
 
-**step 2:** click parse
-![state 2](https://github.com/Unachieved/Asymmetrik/blob/main/readmeImgs/usage2.png)
+**step 2:** Click Submit
+![state 2](https://github.com/Unachieved/Projects/tree/main/org.bcocr/imgs/state3.png)
 
 **done**
+![state 3](https://github.com/Unachieved/Projects/tree/main/org.bcocr/imgs/state4.png)
 
-
-*For more information regarding the component, view the 
+*For more information regarding the component such as implementation details and 
+assumptions, view the 
 [Software Requirement Specifications](https://github.com/Unachieved/Asymmetrik/blob/main/Software%20Requirements%20Specification.pdf) document*

@@ -42,7 +42,7 @@ public class Guifx extends Application {
 
         //button inits
         addContact = new Button("Add Contact");
-        remove = new Button("Remove");
+        remove = new Button("Remove Entry");
 
         //setup table columns
         TableColumn<Entry, String> reqCol = new TableColumn<>("Request");
