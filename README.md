@@ -13,4 +13,8 @@ uploaded once properly documented
 
 #### **Table of Contents**
 
-* org.bcor: uses Java --- parsess business card data
+##### **Solo Projects**
+* [org.bcor](https://github.com/Unachieved/Projects/tree/main/org.bcocr): uses Java --- parsess business card data
+
+##### **Group Projects**
+* [rpicampusmaps](https://github.com/gaskij/rpicampusmap)
