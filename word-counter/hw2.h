@@ -1,0 +1,1 @@
+int regex_match( const char * filename, const char * regex, char *** matches );
