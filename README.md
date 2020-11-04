@@ -8,9 +8,6 @@ This Repository Contains example works of Jon-Pierre Antoine.
 
 Information regarding how to run each project is found inside its corresponding folder.
 
-n.b. It is currently a work in progress and the more projects will be
-uploaded once properly documented
-
 #### **Table of Contents**
 
 ##### **Solo Projects**
@@ -18,3 +15,11 @@ uploaded once properly documented
 
 ##### **Group Projects**
 * [rpicampusmaps](https://github.com/gaskij/rpicampusmap)
+
+
+#### **Aside**
+This repo ha recently been setup and is a work in progress. More projects will be
+uploaded once properly documented.
+
+Any projects not listed in the table of contents has not yet been fully configured
+and documented
